@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+# Snap Shots of App
+
+![](snapshots/img1.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
