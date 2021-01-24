@@ -5,6 +5,13 @@ A new Flutter application.
 # Snap Shots of App
 
 ![](snapshots/img1.png)
+
+![](snapshots/img2.png)
+
+![](snapshots/img3.png)
+
+![](snapshots/img4.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
